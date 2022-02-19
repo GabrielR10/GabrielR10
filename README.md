@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Excel, SQL, Python e Power BI**
 
-- 👀 Estou interessado em trabalhar com Análise de Dados
+- 👨🏻‍💻 Estou interessado em trabalhar com Análise de Dados
 
 - 📫 Vocês me encontram através do e-mail **gabrielreisdourado10@gmail.com**
 
