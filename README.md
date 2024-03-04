@@ -7,7 +7,7 @@
 
 - 📫 Vocês me encontram através do e-mail **gabrielreisdourado10@gmail.com**
 
-- 📄 Podem me seguir através do meu Linkedln [https://www.linkedin.com/in/gabriel-r-652b0b122/](https://www.linkedin.com/in/gabriel-r-652b0b122/)
+- 📄 Podem me seguir através do meu Linkedln [https://www.linkedin.com/in/gabrielreisdourado/](https://www.linkedin.com/in/gabrielreisdourado/)
 
 
 <!---
