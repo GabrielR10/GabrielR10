@@ -1,9 +1,9 @@
-<h1 align="center"> 👋Olá, sou Gabriel Reis</h1>
-<h3 align="center">Sou um estudante apaixonado por Dados e Tecnologia 📊 💻 </h3>
+<h1 align="center"> 👋Olá, me chamo Gabriel Reis</h1>
+<h3 align="center"> Analista de Dados com carreira em desenvolvimento e apaixonado por Tecnologia 📊 💻 </h3>
 
-- 🌱 Atualmente estou aprendendo **Excel, SQL, Python e Power BI**
+- 🌱 Experiência em manipulação e análise de grandes conjuntos de dados utilizando ferramentas como **SQL**, **Python** com conhecimento nas bibliotecas: **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, etc
 
-- 👨‍💻 Estou interessado em trabalhar com Análise de Dados
+- 👨‍💻 Experiência em ferramentas de dataviz como Looker, Looker Studio, Tableau, Power BI criando visualizações impactantes
 
 - 📫 Vocês me encontram através do e-mail **gabrielreisdourado10@gmail.com**
 
