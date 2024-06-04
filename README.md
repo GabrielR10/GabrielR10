@@ -6,6 +6,7 @@
 - 📈 Tenho conhecimento em ferramentas de dataviz como **Looker**, **Looker Studio**, **Tableau** e **Power BI** criando visualizações impactantes.
 - 📄 Para conhecer mais sobre a minha experiência e formação, podem me seguir através do meu **[Linkedin](https://www.linkedin.com/in/gabrielreisdourado/)**
 - 📫 Vocês me encontram através do meu E-mail: **gabrielreisdourado10@gmail.com**
+- 🚀 Veja o meu portfólio completo em **[Portfólio Gabriel Reis Analytics](https://sites.google.com/view/portfoliogabrielreisanalytics/p%C3%A1gina-inicial)** 
 
 <!---
 GabrielR10/GabrielR10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
